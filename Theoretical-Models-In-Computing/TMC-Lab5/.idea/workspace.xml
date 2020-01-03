@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05309230-2bb8-4cef-8bd9-1cd6db71dae9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UjXxtLEfJEf7GK5SuYibYSiCQt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TMC-Lab2" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../TMC-Lab2" />
+      <recent name="$PROJECT_DIR$/../TMC-Lab7" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Report" />
+    </key>
+  </component>
+  <component name="RunManager" selected="LaTeX.ReportLab6">
+    <configuration name="ReportLab2" type="LATEX_RUN_CONFIGURATION" factoryName="LaTeX configuration factory" temporary="true">
+      <texify>
+        <compiler>PDFLATEX</compiler>
+        <compiler-path />
+        <sumatra-path />
+        <viewer-command />
+        <compiler-arguments />
+        <main-file>$PROJECT_DIR$/../TMC-Lab2/ReportLab2.tex</main-file>
+        <aux-dir>false</aux-dir>
+        <out-dir>true</out-dir>
+        <compile-twice>false</compile-twice>
+        <output-format>PDF</output-format>
+        <has-been-run>true</has-been-run>
+        <bib-run-config />
+        <makeindex-run-config />
+      </texify>
+      <method v="2" />
+    </configuration>
+    <configuration name="ReportLab6" type="LATEX_RUN_CONFIGURATION" factoryName="LaTeX configuration factory" temporary="true">
+      <texify>
+        <compiler>PDFLATEX</compiler>
+        <compiler-path />
+        <sumatra-path />
+        <viewer-command />
+        <compiler-arguments />
+        <main-file>$PROJECT_DIR$/../TMC-Lab6/ReportLab6.tex</main-file>
+        <aux-dir>false</aux-dir>
+        <out-dir>true</out-dir>
+        <compile-twice>false</compile-twice>
+        <output-format>PDF</output-format>
+        <has-been-run>true</has-been-run>
+        <bib-run-config />
+        <makeindex-run-config />
+      </texify>
+      <method v="2" />
+    </configuration>
+    <configuration name="ReportLab7" type="LATEX_RUN_CONFIGURATION" factoryName="LaTeX configuration factory">
+      <texify>
+        <compiler>LATEXMK</compiler>
+        <compiler-path />
+        <sumatra-path />
+        <viewer-command />
+        <compiler-arguments />
+        <main-file>$PROJECT_DIR$/../TMC-Lab7/ReportLab7.tex</main-file>
+        <aux-dir>false</aux-dir>
+        <out-dir>true</out-dir>
+        <compile-twice>false</compile-twice>
+        <output-format>PDF</output-format>
+        <has-been-run>true</has-been-run>
+        <bib-run-config />
+        <makeindex-run-config />
+      </texify>
+      <method v="2" />
+    </configuration>
+    <configuration name="1a" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TMC-Lab2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../TMC-Lab2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../TMC-Lab2/1a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1b" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TMC-Lab2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../TMC-Lab2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../TMC-Lab2/1b.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2b" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TMC-Lab2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../TMC-Lab2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../TMC-Lab2/2b.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="LaTeX.ReportLab7" />
+      <item itemvalue="LaTeX.ReportLab2" />
+      <item itemvalue="Python.2b" />
+      <item itemvalue="Python.1a" />
+      <item itemvalue="Python.1b" />
+      <item itemvalue="LaTeX.ReportLab6" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="LaTeX.ReportLab6" />
+        <item itemvalue="LaTeX.ReportLab2" />
+        <item itemvalue="Python.2b" />
+        <item itemvalue="Python.1b" />
+        <item itemvalue="Python.1a" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05309230-2bb8-4cef-8bd9-1cd6db71dae9" name="Default Changelist" comment="" />
+      <created>1575871227468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575871227468</updated>
+      <workItem from="1575871229562" duration="10638000" />
+      <workItem from="1575905713089" duration="4861000" />
+      <workItem from="1576149041811" duration="13000" />
+      <workItem from="1576429708284" duration="1631000" />
+      <workItem from="1576576612580" duration="20273000" />
+      <workItem from="1576631565331" duration="15417000" />
+      <workItem from="1576675365510" duration="86000" />
+      <workItem from="1576675495653" duration="101000" />
+      <workItem from="1576675629686" duration="15253000" />
+      <workItem from="1576743673785" duration="22683000" />
+      <workItem from="1576827063264" duration="8414000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="24" width="601" height="744" key="#ReportLab7" timestamp="1576828543509">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="0" y="24" width="601" height="744" key="#ReportLab7/0.24.1366.744@0.24.1366.744" timestamp="1576828543509" />
+    <state x="146" y="56" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576761186176">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="146" y="56" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.24.1366.744@0.24.1366.744" timestamp="1576761186176" />
+    <state x="627" y="293" key="FileChooserDialogImpl" timestamp="1576675449296">
+      <screen x="0" y="24" width="1680" height="1026" />
+    </state>
+    <state x="627" y="293" key="FileChooserDialogImpl/0.24.1680.1026/1680.282.1366.768@0.24.1680.1026" timestamp="1576675449296" />
+    <state width="660" height="262" key="GridCell.Tab.0.bottom" timestamp="1576846847260">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="660" height="262" key="GridCell.Tab.0.bottom/0.24.1366.744@0.24.1366.744" timestamp="1576846847260" />
+    <state width="1634" height="308" key="GridCell.Tab.0.bottom/0.24.1680.1026/1680.282.1366.768@0.24.1680.1026" timestamp="1576693988377" />
+    <state width="1320" height="266" key="GridCell.Tab.0.bottom/0.24.1680.1026/1680.282.1366.768@1680.282.1366.768" timestamp="1576431354652" />
+    <state width="660" height="262" key="GridCell.Tab.0.center" timestamp="1576846847260">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="660" height="262" key="GridCell.Tab.0.center/0.24.1366.744@0.24.1366.744" timestamp="1576846847260" />
+    <state width="1634" height="308" key="GridCell.Tab.0.center/0.24.1680.1026/1680.282.1366.768@0.24.1680.1026" timestamp="1576693988377" />
+    <state width="1320" height="266" key="GridCell.Tab.0.center/0.24.1680.1026/1680.282.1366.768@1680.282.1366.768" timestamp="1576431354652" />
+    <state width="660" height="262" key="GridCell.Tab.0.left" timestamp="1576846847258">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="660" height="262" key="GridCell.Tab.0.left/0.24.1366.744@0.24.1366.744" timestamp="1576846847258" />
+    <state width="1634" height="308" key="GridCell.Tab.0.left/0.24.1680.1026/1680.282.1366.768@0.24.1680.1026" timestamp="1576693988377" />
+    <state width="1320" height="266" key="GridCell.Tab.0.left/0.24.1680.1026/1680.282.1366.768@1680.282.1366.768" timestamp="1576431354652" />
+    <state width="660" height="262" key="GridCell.Tab.0.right" timestamp="1576846847260">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="660" height="262" key="GridCell.Tab.0.right/0.24.1366.744@0.24.1366.744" timestamp="1576846847260" />
+    <state width="1634" height="308" key="GridCell.Tab.0.right/0.24.1680.1026/1680.282.1366.768@0.24.1680.1026" timestamp="1576693988377" />
+    <state width="1320" height="266" key="GridCell.Tab.0.right/0.24.1680.1026/1680.282.1366.768@1680.282.1366.768" timestamp="1576431354652" />
+    <state width="660" height="262" key="GridCell.Tab.1.bottom" timestamp="1576846847262">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="660" height="262" key="GridCell.Tab.1.bottom/0.24.1366.744@0.24.1366.744" timestamp="1576846847262" />
+    <state width="1634" height="308" key="GridCell.Tab.1.bottom/0.24.1680.1026/1680.282.1366.768@0.24.1680.1026" timestamp="1576693988378" />
+    <state width="660" height="262" key="GridCell.Tab.1.center" timestamp="1576846847261">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="660" height="262" key="GridCell.Tab.1.center/0.24.1366.744@0.24.1366.744" timestamp="1576846847261" />
+    <state width="1634" height="308" key="GridCell.Tab.1.center/0.24.1680.1026/1680.282.1366.768@0.24.1680.1026" timestamp="1576693988378" />
+    <state width="660" height="262" key="GridCell.Tab.1.left" timestamp="1576846847261">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="660" height="262" key="GridCell.Tab.1.left/0.24.1366.744@0.24.1366.744" timestamp="1576846847261" />
+    <state width="1634" height="308" key="GridCell.Tab.1.left/0.24.1680.1026/1680.282.1366.768@0.24.1680.1026" timestamp="1576693988377" />
+    <state width="660" height="262" key="GridCell.Tab.1.right" timestamp="1576846847262">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="660" height="262" key="GridCell.Tab.1.right/0.24.1366.744@0.24.1366.744" timestamp="1576846847262" />
+    <state width="1634" height="308" key="GridCell.Tab.1.right/0.24.1680.1026/1680.282.1366.768@0.24.1680.1026" timestamp="1576693988378" />
+    <state x="225" y="31" key="SettingsEditor" timestamp="1576675596572">
+      <screen x="0" y="24" width="1680" height="1026" />
+    </state>
+    <state x="183" y="29" key="SettingsEditor/0.24.1366.744@0.24.1366.744" timestamp="1575905898706" />
+    <state x="225" y="31" key="SettingsEditor/0.24.1680.1026/1680.282.1366.768@0.24.1680.1026" timestamp="1576675596572" />
+    <state x="345" y="227" key="com.intellij.ide.util.TipDialog" timestamp="1576827063220">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="345" y="227" key="com.intellij.ide.util.TipDialog/0.24.1366.744@0.24.1366.744" timestamp="1576827063220" />
+    <state x="424" y="304" key="com.intellij.ide.util.TipDialog/0.24.1680.1026/1680.282.1366.768@0.24.1680.1026" timestamp="1576675633853" />
+    <state x="503" y="249" width="672" height="678" key="search.everywhere.popup" timestamp="1576684364144">
+      <screen x="0" y="24" width="1680" height="1026" />
+    </state>
+    <state x="503" y="249" width="672" height="678" key="search.everywhere.popup/0.24.1680.1026/1680.282.1366.768@0.24.1680.1026" timestamp="1576684364144" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TMC_Lab5$randomSearchTesst.coverage" NAME="randomSearchTesst Coverage Results" MODIFIED="1575879989484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TMC_Lab5$QuadSpline.coverage" NAME="QuadSpline Coverage Results" MODIFIED="1576828401596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TMC-Lab7" />
+    <SUITE FILE_PATH="coverage/TMC_Lab5$1b.coverage" NAME="1b Coverage Results" MODIFIED="1576831317391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TMC-Lab2" />
+    <SUITE FILE_PATH="coverage/TMC_Lab5$GoldenSectionSearch.coverage" NAME="GoldenSectionSearch Coverage Results" MODIFIED="1575909863190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TMC_Lab5$Lagrange.coverage" NAME="Lagrange Coverage Results" MODIFIED="1576674853578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TMC-Lab7" />
+    <SUITE FILE_PATH="coverage/TMC_Lab5$1a.coverage" NAME="1a Coverage Results" MODIFIED="1576831305537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TMC-Lab2" />
+    <SUITE FILE_PATH="coverage/TMC_Lab5$2b.coverage" NAME="2b Coverage Results" MODIFIED="1576831560993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TMC-Lab2" />
+    <SUITE FILE_PATH="coverage/TMC_Lab5$RandomSearch.coverage" NAME="RandomSearch Coverage Results" MODIFIED="1576576902842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TMC_Lab5$2a.coverage" NAME="2a Coverage Results" MODIFIED="1576830949878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TMC-Lab2" />
+    <SUITE FILE_PATH="coverage/TMC_Lab5$Newton.coverage" NAME="Newton Coverage Results" MODIFIED="1576673479184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TMC-Lab6" />
+  </component>
+</project>

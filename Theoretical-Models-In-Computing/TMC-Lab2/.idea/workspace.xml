@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8fbcf6a-e4bf-46da-b051-6049d47d45e6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V1rK5MpO2KV0PuMilaBuiShx3U" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TMC/NewtonMethod.py" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.GoldenSectionSearch">
+    <configuration name="1a" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TMC-Lab2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1b" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TMC-Lab2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1b.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Bayersian" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TMC-Lab5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../TMC-Lab5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../TMC-Lab5/Bayesian.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GoldenSectionSearch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TMC-Lab5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../TMC-Lab5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../TMC-Lab5/GoldenSectionSearch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RandomVsGrid" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TMC-Lab5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../TMC-Lab5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../TMC-Lab5/RandomVsGrid.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="TMC-Lab2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.1a" />
+      <item itemvalue="Python.1b" />
+      <item itemvalue="Python.RandomVsGrid" />
+      <item itemvalue="Python.Bayersian" />
+      <item itemvalue="Python.GoldenSectionSearch" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.GoldenSectionSearch" />
+        <item itemvalue="Python.Bayersian" />
+        <item itemvalue="Python.RandomVsGrid" />
+        <item itemvalue="Python.1a" />
+        <item itemvalue="Python.1b" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8fbcf6a-e4bf-46da-b051-6049d47d45e6" name="Default Changelist" comment="" />
+      <created>1576459997079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576459997079</updated>
+      <workItem from="1576460012741" duration="6188000" />
+      <workItem from="1576470215211" duration="20001000" />
+      <workItem from="1576576429661" duration="158000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="303" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576496220671">
+      <screen x="0" y="24" width="3046" height="1026" />
+    </state>
+    <state x="303" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.24.3046.1026@0.24.3046.1026" timestamp="1576496220671" />
+    <state x="601" y="327" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576463703547">
+      <screen x="0" y="24" width="1680" height="1026" />
+    </state>
+    <state x="601" y="327" key="#com.intellij.fileTypes.FileTypeChooser/0.24.1680.1026/1680.282.1366.768@0.24.1680.1026" timestamp="1576463703547" />
+    <state x="470" y="156" key="FileChooserDialogImpl" timestamp="1576484519252">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="470" y="156" key="FileChooserDialogImpl/0.24.1366.744@0.24.1366.744" timestamp="1576484519252" />
+    <state width="1634" height="244" key="GridCell.Tab.0.bottom" timestamp="1576514067641">
+      <screen x="0" y="24" width="3046" height="1026" />
+    </state>
+    <state width="1320" height="152" key="GridCell.Tab.0.bottom/0.24.1366.744@0.24.1366.744" timestamp="1576480588685" />
+    <state width="1634" height="245" key="GridCell.Tab.0.bottom/0.24.1680.1026/1680.282.1366.768@0.24.1680.1026" timestamp="1576466207470" />
+    <state width="1634" height="244" key="GridCell.Tab.0.bottom/0.24.3046.1026@0.24.3046.1026" timestamp="1576514067641" />
+    <state width="1634" height="244" key="GridCell.Tab.0.center" timestamp="1576514067640">
+      <screen x="0" y="24" width="3046" height="1026" />
+    </state>
+    <state width="1320" height="152" key="GridCell.Tab.0.center/0.24.1366.744@0.24.1366.744" timestamp="1576480588684" />
+    <state width="1634" height="245" key="GridCell.Tab.0.center/0.24.1680.1026/1680.282.1366.768@0.24.1680.1026" timestamp="1576466207470" />
+    <state width="1634" height="244" key="GridCell.Tab.0.center/0.24.3046.1026@0.24.3046.1026" timestamp="1576514067640" />
+    <state width="1634" height="244" key="GridCell.Tab.0.left" timestamp="1576514067640">
+      <screen x="0" y="24" width="3046" height="1026" />
+    </state>
+    <state width="1320" height="152" key="GridCell.Tab.0.left/0.24.1366.744@0.24.1366.744" timestamp="1576480588683" />
+    <state width="1634" height="245" key="GridCell.Tab.0.left/0.24.1680.1026/1680.282.1366.768@0.24.1680.1026" timestamp="1576466207470" />
+    <state width="1634" height="244" key="GridCell.Tab.0.left/0.24.3046.1026@0.24.3046.1026" timestamp="1576514067640" />
+    <state width="1634" height="244" key="GridCell.Tab.0.right" timestamp="1576514067641">
+      <screen x="0" y="24" width="3046" height="1026" />
+    </state>
+    <state width="1320" height="152" key="GridCell.Tab.0.right/0.24.1366.744@0.24.1366.744" timestamp="1576480588684" />
+    <state width="1634" height="245" key="GridCell.Tab.0.right/0.24.1680.1026/1680.282.1366.768@0.24.1680.1026" timestamp="1576466207470" />
+    <state width="1634" height="244" key="GridCell.Tab.0.right/0.24.3046.1026@0.24.3046.1026" timestamp="1576514067641" />
+    <state width="1634" height="308" key="GridCell.Tab.1.bottom" timestamp="1576496330639">
+      <screen x="0" y="24" width="3046" height="1026" />
+    </state>
+    <state width="1634" height="308" key="GridCell.Tab.1.bottom/0.24.3046.1026@0.24.3046.1026" timestamp="1576496330639" />
+    <state width="1634" height="308" key="GridCell.Tab.1.center" timestamp="1576496330638">
+      <screen x="0" y="24" width="3046" height="1026" />
+    </state>
+    <state width="1634" height="308" key="GridCell.Tab.1.center/0.24.3046.1026@0.24.3046.1026" timestamp="1576496330638" />
+    <state width="1634" height="308" key="GridCell.Tab.1.left" timestamp="1576496330638">
+      <screen x="0" y="24" width="3046" height="1026" />
+    </state>
+    <state width="1634" height="308" key="GridCell.Tab.1.left/0.24.3046.1026@0.24.3046.1026" timestamp="1576496330638" />
+    <state width="1634" height="308" key="GridCell.Tab.1.right" timestamp="1576496330639">
+      <screen x="0" y="24" width="3046" height="1026" />
+    </state>
+    <state width="1634" height="308" key="GridCell.Tab.1.right/0.24.3046.1026@0.24.3046.1026" timestamp="1576496330639" />
+    <state x="340" y="174" key="SettingsEditor" timestamp="1576503732680">
+      <screen x="0" y="24" width="3046" height="1026" />
+    </state>
+    <state x="340" y="174" key="SettingsEditor/0.24.3046.1026@0.24.3046.1026" timestamp="1576503732680" />
+    <state x="424" y="305" key="com.intellij.ide.util.TipDialog" timestamp="1576576464749">
+      <screen x="0" y="24" width="1680" height="1026" />
+    </state>
+    <state x="345" y="228" key="com.intellij.ide.util.TipDialog/0.24.1366.744@0.24.1366.744" timestamp="1576470347745" />
+    <state x="424" y="305" key="com.intellij.ide.util.TipDialog/0.24.1680.1026/1680.282.1366.768@0.24.1680.1026" timestamp="1576576464749" />
+    <state x="2025" y="493" key="com.intellij.ide.util.TipDialog/0.24.1680.1026/1680.282.1366.768@1680.282.1366.768" timestamp="1576460115485" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1576471209600">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.24.1366.744@0.24.1366.744" timestamp="1576471209600" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TMC_Lab2$2Redo.coverage" NAME="2Redo Coverage Results" MODIFIED="1576496210552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TMC_Lab2$1b.coverage" NAME="1b Coverage Results" MODIFIED="1576460856341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TMC_Lab2$1a.coverage" NAME="1a Coverage Results" MODIFIED="1576460859455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TMC_Lab2$2.coverage" NAME="2 Coverage Results" MODIFIED="1576462265266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TMC_Lab2$2b.coverage" NAME="2b Coverage Results" MODIFIED="1576496450196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

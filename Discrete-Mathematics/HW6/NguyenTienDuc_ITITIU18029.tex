@@ -1,0 +1,295 @@
+\documentclass[12pt]{article}
+
+% Packages here
+\usepackage{geometry}
+\usepackage{multicol}
+\usepackage{enumitem}
+\usepackage{amsmath}
+\usepackage{listings}
+\usepackage{xcolor}
+ 
+% Configurations here
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+ 
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{backcolour},   
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=b,                    
+    keepspaces=true,                 
+    numbers=left,                    
+    numbersep=5pt,                  
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    tabsize=2
+}
+ 
+\lstset{style=mystyle}
+
+\geometry{margin=1cm, bottom=2cm}
+\setlength{\columnseprule}{1pt}
+
+% Content here
+\begin{document}
+  \title{Homework 6}
+  \author{Nguyen Tien Duc ITITIU18029}
+  \maketitle
+  \begin{multicols}{2}
+    [\part*{Page 457}]
+      \section*{6}
+        \begin{enumerate}[label=\alph*)]
+          \item \(a_n = a_{n-1}\)
+          \item \(a_{n+1} = 2(n+1) = 2n + 2 = a_n + 2\) \\ \(\Rightarrow a_{n+1} = a_n + 2\)
+          \item \(a_{n+1} = 2(n+1) + 3 = 2n + 3 + 2 = a_n + 2 \) \\ \(\Rightarrow a_{n+1} = a_n + 2\)
+          \item \(a_{n+1} = 5^{n+1} = 5\cdot 5^n = 5a_n\) \\ \(\Rightarrow a_{n+1} = 5a_n\)
+          \item \(a_{n+1} = (n+1)^2 = n^2 + 2n + 1 = a_n + 2\sqrt{a_n} + 1\)
+          \item \(a_{n+1} = (n+1)^2 + n+1 = n^2 + n + 2n + 2 = a_n + 2n + 2\) \\ \(\Rightarrow a_{n+1} = a_n + 2n + 2\)
+          \item \(a_{n+1} = n+1 + (-1)^{n+1} = n + 1 + (-1)^n\cdot(-1) = n - (-1)^n + 1 = n + (-1)^n - 2(-1)^n + 1 = a_n - 2(-1)^n  + 1\) \\ \(\Rightarrow a_{n+1} = a_n - 2(-1)^n  + 1 \)
+          \item \(a_{n+1} = (n+1)! = (n+1)\cdot n! = (n+1)\cdot a_n\) \\ \(\Rightarrow a_{n+1} = (n+1)\cdot a_n\)          
+        \end{enumerate}
+      \section*{8}
+        \begin{enumerate}[label=\alph*)]
+          \item %a
+          \begin{align*}
+            a_n &= -a_{n-1} \\
+             &= (-1)^2a_{n-2} \\ 
+             &= \dots \\ 
+             &= (-1)^n a_{n-n} \\
+             &= (-1)^n a_0 \\
+             &= (-1)^n\cdot5 \\
+            \Rightarrow a_n &= (-1)^n\cdot5
+          \end{align*}
+
+          \item %b
+          \begin{align*}
+            a_n &= a_{n-1} + 3 \\ 
+            &= a_{n-2}+3\cdot 2 \\
+            &= a_{n-3} + 3\cdot 3 \\
+            &= \dots \\
+            &= a_{n-n} + 3\cdot n \\
+            &= 3n + a_0 \\
+            &= 3n + 1 \\ 
+            \Rightarrow a_n &= 3n + 1
+          \end{align*}
+
+          \item %c
+          \begin{align*}
+            a_n &= a_{n-1} - n \\
+            &= a_{n-2}-(n-1)-n \\
+            &= a_{n-3}-(n-2)-(n-1)-n \\ 
+            &= \dots \\
+            &= a_{n-n}-(n+(n-1)+(n-2)\\&+(n-3)+(n-(n-1))) \\ 
+            &= a_0-\frac{n(n+1)}{2} \\ 
+            \Rightarrow a_ n &= \frac{-n^2-n+8}{2}
+          \end{align*}
+          \item %d
+          \begin{align*}
+            a_n &= 2a_{n-1} - 3 \\
+            &= 2(2a_{n-2} - 3) - 3 \\
+            &= 4a_{n-2} - 3\cdot 3 \\
+            &= 4(2a_{n-3} -3) - 3\cdot 3 \\
+            &= 8a_{n-3} - 7\cdot 3 \\ 
+            &= \dots \\
+            &= 2^n\cdot a_{n-n} - (2^n-1)\cdot 3   \\
+            &= 2^na_0 - (2^n-1)\cdot 3 \\
+            \Rightarrow a_n &= -2^n - (2^n-1)\cdot 3 \\
+            &= -4\cdot 2^n + 3 \\
+            \Rightarrow a_n &= -2^{n+2} + 3
+          \end{align*}
+
+          \item %e
+            \begin{align*}
+              a_n &= (n+1)a_{n-1} \\
+              &= (n+1)n a_{n-2} \\
+              &= (n+1)n(n-1)a_{n-3} \\
+              &= (n+1)n(n-1)(n-2)a_{n-4} \\
+              &= \dots \\
+              &= (n+1)n\dots(n-(n-2))a_{n-n} \\
+              &= (n+1)n\dots2 a_0 \\
+              &= 2(n+1)!
+            \end{align*}
+
+          \item %f
+            \begin{align*}
+              a_n &= 2na_{n-1} \\
+              &= 2n2(n-1)a_{n-2} \\
+              &= 2n2(n-1)2(n-2)a_{n-3} \\
+              &= 2n2(n-1)2(n-2)2(n-3)a_{n-4} \\
+              &= \dots \\
+              &= 2^n n\dots(n-(n-1))a_{n-n}\\
+              &= 2^n n!\cdot3
+            \end{align*}
+          
+          \item %g
+            \begin{align*}
+              a_n &= n-1 - a_{n-1} \\
+              &= n-1 - (n-2 - a_{n-2}) \\
+              &= n-1 - (n-2) + (n-3 - a_{n-3}) \\
+              &= \dots \\
+              &= (n-1) - (n-2) + \dots \\
+              &+ (-1)^{n-1}(n-n) + (-1)^n a_{n-n} \\
+              &= -1 + 2 -3 + \dots +(-1)^{n-1} n + (-1)^n7 \\
+              &= \frac{2n-1+(-1)^n}{4} + (-1)^n\cdot 7
+            \end{align*}
+        \end{enumerate}
+
+      \section*{12}
+        In 2002: \(P_0=6.2\) Billion. \\
+        \(r = 1.3\%/year = 0.013/year\) \\
+        At year n after 2002:
+        \begin{enumerate}[label=\alph*)]
+          \item %a
+          \begin{align*}
+            P_1 &= P_0 + P_0\cdot r = (1.013)P_0 \\
+            P_2 &= P_1 + P_1\cdot r = (1.013)P_1 \\
+            \Rightarrow P_n &= (1.013)P_{n-1}
+          \end{align*}
+
+          \item %b
+          \begin{align*}
+            P_n &= 1.013P_{n-1} \\
+            &=1.013^2P_{n-2} \\
+            &=1.013^3P_{n-3} \\
+            &=\dots \\
+            \Rightarrow P_n &= (1.013)^n P_0 \\
+            \Rightarrow P_n &= 1.013^n\cdot 6.2 \, (Billion)
+          \end{align*}
+
+          \item %c
+          In 2022, \(n = 2022-2002=20\\
+          \Rightarrow P_{20}=1.013^{20}\cdot 6.2= 8.0275\) (Billion) \\
+          The world population will be approximately 8.0275 billion people.
+        \end{enumerate}
+
+      \section*{14}
+        \begin{enumerate}[label=\alph*)]
+          \item %a
+            In 1999, \(S_0=\$50000\)\\
+            A year late, \(S_1=S_0\cdot(1+0.05) + \$1000\)\\
+            A year late, \(S_2=S_1\cdot(1+0.05) + \$1000\)\\
+            Then, \(S_n=S_{n-1}\cdot(1.05) + \$1000\)
+
+          \item %b
+            In 2007,
+           \(n=2007-1999=8\) \\
+            Using result from c):\\
+            \(S_8=1000\frac{(1.05^8-1)}{1.05-1}+50000(1.05)^8=83422\)\\
+            So his salary then will be about \$83422 
+
+          \item %c
+            \begin{align*}
+            S_n&=S_{n-1}\cdot(1.05) + 1000 \\
+            &=(S_{n-2}\cdot(1.05) + 1000)\cdot(1.05) + 1000 \\
+            &=S_{n-2}\cdot(1.05)^2+1000\cdot(1.05+1) \\
+            &=(S_{n-3}\cdot(1.05)+1000)\cdot(1.05)^2 \\
+            & + 1000\cdot(1.05+1) \\
+            &=S_{n-3}\cdot(1.05)^3+1000\cdot(1.05^2+1.05+1) \\
+            &=\dots \\
+            &=S_{n-n}\cdot(1.05)^n+1000\cdot(1.05^{n-1}+1.05^{n-2} \\
+            &+\dots+1.05^1+1.05^0) \\
+            &=50000(1.05)^n+1000\cdot(1.05^{n-1}+1.05^{n-2} \\
+            &+\dots+1.05^1+1.05^0) \\
+            &=1000\frac{(1.05^n-1)}{1.05-1}+50000(1.05)^n\\
+            &=70000(1.05)^n - 20000
+            \end{align*}           
+        \end{enumerate}
+  \end{multicols}
+
+  \begin{multicols}{2}
+    [\part*{Page 471}]
+    \section*{6}
+      Let \(a_n\) be the number of messages \\
+      transmitted in n \(\mu s\). \\
+      One signal need 1 \(\mu s: a_{n-1}\)\\
+      One signal need 2 \(\mu s: a_{n-2}\)\\
+      One signal need 2 \(\mu s: a_{n-2}\)\\\\
+      For \(n\geq2: a_n=a_{n-1}+2a_{n-2}\)\\
+
+      In 0 \(\mu s\), only empty message can be sent.
+      \begin{center}
+        \(\Rightarrow a_0=1\)
+      \end{center}
+
+      In 1 \(\mu s\), only 1 message can be sent.
+      \begin{center}
+        \(\Rightarrow a_1=1\)\\
+        Using characteristic equation:\\
+        Let \(a_n=r^2,a_{n-1}=r, a{n-2}=1\)\\
+        \(\Rightarrow r=2\) or \(r=-1\)\\
+        Solution recurrence relation: \\
+        \(a_n=\alpha_1r^n_1+\alpha_2r^n_2\)
+      \end{center}
+
+      \begin{align*}
+        \text{From initial conditions, we have:}\\
+        1 &= a_0=\alpha_1+\alpha_2\\
+        1 &= a_1=2\alpha_1-\alpha_2\\
+        \text{Then:}\\
+        \alpha_1&=\frac{2}{3}\\
+        \alpha_2&=\frac{1}{3}
+      \end{align*}
+      The solution to the recurrence relation is:\\
+      \[a_n=\frac{2}{3}2^n+\frac{1}{3}(-1)^n\]
+    \section*{8}
+      \begin{enumerate}[label=\alph*)]
+        \item The recurrence relation is simply:\\
+        \[L_n=\frac{1}{2}(L_{n-1}+L_{n-2})\]
+        \item The characteristic equation:\\
+        \[r^2-\frac{1}{2}r-\frac{1}{2}=0\\
+        \Rightarrow r=-\frac{1}{2} \text{ or } r=1\]\\
+        The general solution is:\\
+        \[a_n=\left(-\frac{1}{2}\right)^n\alpha_1+1^n\alpha_2\]\\
+        We have:\\
+         \[L_1=100000=\frac{1}{2}\alpha_1+\alpha_2\]\\
+         \[L_2=300000=\left(\frac{1}{2}\right)^3\alpha_1+\alpha_2\]\\
+         Then:
+         \[\left\{\alpha_1=\frac{8000000}{3}\text{ and }
+         \alpha_2=\frac{700000}{3}\right\}\]
+         Then:
+         \[L_n=\left(\frac{800000}{3}\right)\left(\frac{-1}{2}\right)^n+\left(\frac{700000}{3}\right)\]
+      \end{enumerate}
+    \section*{10}
+      If \(r_0\) is the only root of \(r^2-c_1r-c_2=0\)\\
+      % Assume: \(a_n=\alpha_1r_0^n+\alpha_2nr_0^n\)\\
+      Then: \(r^2-c_1r-c_2=(r-r_0)^2=0\\
+      \Leftrightarrow r^2-c_1r-c_2=r^2-2rr_0+r_0^2\\
+      \Leftrightarrow c_2=-r_0^2 \text{ and } c_1=2r_0\)\\
+      Prove the solution:
+      \begin{align*}
+        c_1a_{n-1}+c_2a_{n-2}&=2r_0a_{n-1}-r_0^2a_{n-2}\\
+        &=2r_0(\alpha_1r_0^{n-1}+\alpha_2nr_0^{n-1})\\
+        &-r^2_0(\alpha_1r_0^{n-2}+\alpha_2nr_0^{n-2})\\
+        &=\alpha_1r^n_0+\alpha_2nr^n_0\\
+        &=a_n
+      \end{align*}
+      Thus the sequence {\(a_n\)} is a solution of the recurrence relation.
+
+    \section*{12}
+      We have for \(n\geq3\)
+        \[a_n=2a_{n-1}+a_{n-2}-2a_{n-3}\]\\
+      The characteristic equation is:
+        \[r^3-2r^2-r+2=0\Rightarrow r=-1;r=1;r=2\]
+      Then the solution is:
+        \[a_n=(-1)^n\alpha_1+\alpha_2+2^n\alpha_3\]
+      We also have:
+        \[a_0=3=\alpha_1+\alpha_2+\alpha_3\]
+        \[a_1=6=-\alpha_1+\alpha_2+2\alpha_3\]
+        \[a_2=0=\alpha_1+\alpha_2+4\alpha_3\]
+      Then: \(\alpha_0=-2; \alpha_1=6; \alpha_2=-1\)
+      The solution is:
+      \[a_n = -2\cdot(-1)^n + 6 - 2^n\]
+  \end{multicols}
+
+  \part*{HanoiTower.cpp}
+    \lstinputlisting[language=c++]{TowerOfHanoi.cpp}
+
+\end{document}
